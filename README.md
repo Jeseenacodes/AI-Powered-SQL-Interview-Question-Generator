@@ -41,7 +41,7 @@ Google Sheets Updates the Original Row
 Gmail Sends the Practice Question to the User
 ```
 ---
-## Automation Steps
+## Automation Steps 
 
 ### 1. Create Google Form
 

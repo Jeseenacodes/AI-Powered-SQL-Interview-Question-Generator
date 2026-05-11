@@ -6,6 +6,7 @@ This project is an AI-powered automation workflow built with Zapier, Google Form
 
 The automation allows users to submit a SQL topic and difficulty level through a form. Once submitted, the workflow generates a customized SQL interview question, answer, explanation, and common mistake using Gemini. The result is saved back into Google Sheets and emailed automatically to the user.
 
+Form link: https://forms.gle/GKusAt1gRUTHYJRB9 
 ---
 
 ## Problem Statement

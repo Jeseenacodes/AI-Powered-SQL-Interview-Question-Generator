@@ -146,6 +146,19 @@ Gmail sends the generated SQL practice question to the email submitted in the fo
 
 <img width="373" height="558" alt="image" src="https://github.com/user-attachments/assets/0307235b-f2f7-4061-88b6-29e6e4d369d7" />
 
+Email 1
+
+<img width="1621" height="798" alt="image" src="https://github.com/user-attachments/assets/f0a5df44-a706-475b-a280-6d84ff3fc533" />
+
+Email 2
+
+<img width="1623" height="804" alt="image" src="https://github.com/user-attachments/assets/31694565-8909-4285-9e30-d4b9cca886b2" />
+
+Email 3
+
+<img width="1617" height="798" alt="image" src="https://github.com/user-attachments/assets/c5609241-b40b-4cbb-9740-4b973df7139c" />
+
+
 ---
 
 ## What Worked

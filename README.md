@@ -208,6 +208,21 @@ This automation can support:
 This project showed how automation can combine user input, AI generation, structured data storage, and email delivery into one complete workflow. It also demonstrates how data analysts can use no-code automation tools to build practical internal tools without needing a full software development stack.
 
 ---
+## Note on AI Integration
+
+The workflow was originally designed to generate dynamic SQL interview questions using Google AI Studio (Gemini) inside Zapier. During final testing, the Gemini API free-tier quota became exhausted, which temporarily prevented additional live AI responses from being generated through the API integration. To preserve the complete end-to-end automation workflow for demonstration and testing purposes, a static SQL response was temporarily used in place of the live AI-generated output.
+
+Despite the API limitation, the automation logic and workflow architecture were fully implemented and successfully tested, including:
+
+- Google Form submission
+- Google Sheets trigger
+- Automated workflow execution in Zapier
+- Spreadsheet row updates
+- Automated email delivery
+
+The workflow remains fully structured for future reconnection to a live AI model once API quota access is restored.
+
+---
 
 ## Final Outcome
 
